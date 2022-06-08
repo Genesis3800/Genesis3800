@@ -4,7 +4,6 @@
 🔭 I am a self-taught Blockchain developer, absolutely passionate about the field
 🌱 I am currently working on getting good at GraphQL, OpenZeppelin and Chainlink 
 👯 My tech stack is - (Solidity + Hardhat  + EthersJS)
-⚡ I am actively looking for opportunities in the field
 😄 Pronouns- (He/Him)
 
 ## 🌐Socials
